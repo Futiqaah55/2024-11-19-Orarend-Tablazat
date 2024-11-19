@@ -1,0 +1,15 @@
+table{
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid #232323;
+    padding: 0.5rem;
+    font-size: 35px;
+}
+
+.container{
+    margin: 25%;
+    padding: none;
+        
+}
