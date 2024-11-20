@@ -8,6 +8,10 @@ th, td{
     font-size: 35px;
 }
 
+tr:nth-child(even){
+    background-color: gainsboro;
+}
+
 .container{
     margin: 25%;
     padding: none;
